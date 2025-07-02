@@ -26,10 +26,18 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile Version
+
+![Screenshot 2025-07-02 at 2 58 12 p m](https://github.com/user-attachments/assets/c565b427-ca75-4d90-929a-d2b3b7e29398)
+
+#### Desktop Version
+
+![Screenshot 2025-07-02 at 2 58 29 p m](https://github.com/user-attachments/assets/23a0789b-ebfb-4495-bcd2-5b38682ffa35)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repository](https://github.com/lslozano/product-preview-card-component)
+- Live Site URL: [Solution Deployed](https://lslozano.github.io/product-preview-card-component/)
 
 ## My process
 
