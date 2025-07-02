@@ -1,0 +1,5 @@
+@media only screen and (min-width: 49em) {
+  .productCardImg {
+    flex: 1 0 50%;
+  }
+}

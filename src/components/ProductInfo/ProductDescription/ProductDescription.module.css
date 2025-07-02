@@ -1,0 +1,35 @@
+.productDescription {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.productDescription span,
+.productDescription p {
+  font-family: var(--font-montserrat);
+  font-weight: var(--weight-medium);
+  color: var(--grey);
+  font-size: 0.8rem;
+}
+
+.productDescription h1 {
+  font-family: var(--font-fraunces);
+  font-weight: var(--weight-bold);
+  color: var(--black);
+  font-size: 2rem;
+  line-height: 1.1;
+}
+
+@media only screen and (min-width: 49em) {
+  .productDescription {
+    gap: 25px;
+  }
+
+  .productDescription h1 {
+    font-size: 2.5rem;
+  }
+
+  .productDescription p {
+    font-size: 1.1rem;
+  }
+}
