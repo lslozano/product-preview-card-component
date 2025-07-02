@@ -34,9 +34,13 @@ Users should be able to:
 ## My process
 
 1.- First step was to start with a mental model on how I would structure the DOM.
+
 2.- Second step was to reset CSS and create the DOM structure.
+
 3.- From there, I started working with the styles, applying general styles, then colors and typography and finally granular ones.
+
 4.- The application of the styles was done in a general manner. When that was finished, I moved into components.
+
 5.- Lastly, I polished the project, did some needed refactors, added variables and props.
 
 ### Built with
@@ -51,10 +55,10 @@ Users should be able to:
 
 ### What I learned
 
-1.- Use of CSS variables
-2.- Transition effects
-3.- Improve on my workflow
-4.- Work with responsive images and the picture tag
+- Use of CSS variables
+- Transition effects
+- Improve on my workflow
+- Work with responsive images and the picture tag
 
 ### Continued development
 
@@ -69,6 +73,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Luis Lozano](https://github.com/lslozano)
+- Frontend Mentor - [@lslozano](https://www.frontendmentor.io/profile/lslozano)
+- LinkedIn - [@lslozano](https://www.linkedin.com/in/lslozano/)
+- Medium - [@lslozano](https://medium.com/@lslozano)
